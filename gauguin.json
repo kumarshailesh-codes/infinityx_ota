@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-3.6-gauguin-14.01.2026-GAPPS-UNOFFICIAL.zip",
-                        "download": "https://gitea.com/samsuddin/Ota_files/media/branch/main/Project_Infinity-X-3.6-gauguin-14.01.2026-GAPPS-UNOFFICIAL.zip"
-                        "timestamp": 1768385633,
-                        "md5": "890657a41b333485b6a3714d51c613c4",
-                        "size": 2082766994,
-                        "version": "3.6"
-                }
-        ]
+  "response": [
+    {
+      "filename": "Project_Infinity-X-3.6-gauguin-14.01.2026-GAPPS-UNOFFICIAL.zip",
+      "download": "https://gitea.com/samsuddin/Ota_files/media/branch/main/Project_Infinity-X-3.6-gauguin-14.01.2026-GAPPS-UNOFFICIAL.zip",
+      "timestamp": 1768385633,
+      "md5": "890657a41b333485b6a3714d51c613c4",
+      "size": 2082766994,
+      "version": "3.6"
+    }
+  ]
 }
